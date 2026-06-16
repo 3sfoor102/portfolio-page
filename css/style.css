@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(235, 235, 235);
+    color:black;
+    font-family: sans-serif, Arial;
+    margin: 3px;
+}
+header{
+    background-color: #172441; /*rgb(75, 54, 11); */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+nav {
+    color: white;
+    margin: 10px;
+    font-weight: 900;
+}
+section {
+    background-color: white;
+    border: 3px solid lightgrey ;
+    padding: 10px;
+    margin: 20px;
+}
+h1 {
+    color: #1E293B ;
+    font-weight: 900;
+    font-size: 40px;
+}
+h2 {
+    font-size: 20px;
+    margin-top: -10px;
+    font-weight: 400;
+    font-family: sans-serif; 
+    font-style: italic;
+    color: white;
+}
+h3 {
+    color: #1E293B; 
+    font-size: 25px;
+}
+h4 {
+    font-size: 18px;
+    color: #39465c;
+}
+img {
+    width: 200px ;
+    border: 2px solid #23385b;
+}
+#name {
+    color:white;
+}
+a {
+    color: white;
+    padding-right: 20px;
+    text-decoration:double;
+}
+.contactLinks {
+color: slategray;
+}
+.contactFooter {
+    background-color: white;
+    border: 3px solid lightgrey ;
+    padding: 10px;
+    margin: 20px;
+}
+#portofolio {
+    margin: 16px;
+}
+
+#navColor {
+    background-color: rgba(0, 0, 0, 0.174);
+    border: 0px;
+}
+#backTop{
+    color: #223148;
+    justify-content: center;
+    padding-left: 290px;
+    padding-bottom: 20px;
+}
+
